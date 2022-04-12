@@ -1,7 +1,7 @@
 [DEFAULT]
-Source_Code_Template_Path=/Users/raafat.hantoush/Documents/GitHub/python-data-analysis-studio/web_app/code_generation_source_template.ipynb
+Source_Code_Template_Path=/Users/francescalogiacco/Desktop/python-data-analysis-studio/web_app/code_generation_source_template.ipynb
 
 [Jupyter]
-Localhost_Port:8888
-Token=0563ec0553f4d40cad3bc04451b3a1bec43104ce90f9daa5
-Kernel_id=12defe3f-b544-4133-a37f-90de0dd34de3
+Localhost_Port:8820
+Token=916d3c71ed524cdca0cfd73b65eef0519590ad0b87ba1721
+Kernel_id=a1d4ba38-3d9d-4ac3-be80-8e6349537335
