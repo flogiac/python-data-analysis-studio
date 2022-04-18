@@ -2,6 +2,6 @@
 Source_Code_Template_Path=/Users/francescalogiacco/Desktop/python-data-analysis-studio/web_app/code_generation_source_template.ipynb
 
 [Jupyter]
-Localhost_Port:8820
-Token=916d3c71ed524cdca0cfd73b65eef0519590ad0b87ba1721
-Kernel_id=a1d4ba38-3d9d-4ac3-be80-8e6349537335
+Localhost_Port:8960
+Token=9f2efeb5fd798c48ea0e35d761617463c72f7e6e23234fbb
+Kernel_id=15b39b32-9483-4bd5-9dcd-af3917176991
